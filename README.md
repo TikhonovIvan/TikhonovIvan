@@ -72,7 +72,7 @@
       <td><b> <a href="https://www.udemy.com/course/mysql-sql/">СУБД MySQL и язык запросов SQL. Теория и практика</a>/
 СУБД MySQL и язык запросов SQL. Теория и практика
 </b></td>
-      <td><b>09/2022 - xx/2023L</b></td>
+      <td><b>17/01/2025 - **/**/2023L</b></td>
     </tr>
   </tbody>
 </table>
