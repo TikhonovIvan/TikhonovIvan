@@ -69,7 +69,9 @@
       <td><b>31/12/2024 - 08/01/2025</b></td>
     </tr>
 	<tr>
-      <td><b> <a href="areaweb.su">areaweb.su</a>/Laravel — лучшее, что сделал Тейлор</b></td>
+      <td><b> <a href="https://www.udemy.com/course/mysql-sql/">СУБД MySQL и язык запросов SQL. Теория и практика</a>/
+СУБД MySQL и язык запросов SQL. Теория и практика
+</b></td>
       <td><b>09/2022 - xx/2023L</b></td>
     </tr>
   </tbody>
