@@ -65,7 +65,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="areaweb.su">areaweb.su</a>/PHP — из блондинки в PRO (new)</b></td>
+      <td><b><a href="https://www.udemy.com/certificate/UC-32b31cf1-902c-4ee4-9b9f-0d31f1486454/">PHP 8. От теории к практике</a>/PHP 8. От теории к практике</b></td>
       <td><b>08/2022 - xx/2023</b></td>
     </tr>
 	<tr>
