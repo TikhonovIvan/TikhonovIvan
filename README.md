@@ -69,10 +69,10 @@
       <td><b>31/12/2024 - 08/01/2025</b></td>
     </tr>
 	<tr>
-      <td><b> <a href="https://www.udemy.com/course/mysql-sql/">СУБД MySQL и язык запросов SQL. Теория и практика</a>/
+      <td><b> <a href="https://www.udemy.com/certificate/UC-9f574e12-000e-4f29-b6a3-a469c37a5b8f/">СУБД MySQL и язык запросов SQL. Теория и практика</a>/
 СУБД MySQL и язык запросов SQL. Теория и практика
 </b></td>
-      <td><b>17/01/2025 - **/**/2023L</b></td>
+      <td><b>17/01/2025 - 23/01/2025</b></td>
     </tr>
   </tbody>
 </table>
